@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+D:\Student\lab07.1.rec\UnitTest1\UnitTest1.cpp(22,17): error C2086: 'int m[4][4]': redefinition
+D:\Student\lab07.1.rec\UnitTest1\UnitTest1.cpp(21): message : see declaration of 'm'
+D:\Student\lab07.1.rec\UnitTest1\UnitTest1.cpp(29,18): error C2372: 'q': redefinition; different types of indirection
+D:\Student\lab07.1.rec\UnitTest1\UnitTest1.cpp(17): message : see declaration of 'q'
